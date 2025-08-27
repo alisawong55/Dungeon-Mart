@@ -5,7 +5,7 @@
 - **Supported Aspect Ratios:** 16:9, 19.5:9
 
 ## Setup Instructions
-1. Clone repository "git clone https://github.com/your-repo/dungeon-mart.git"
+1. Clone repository "git clone https://github.com/alisawong55/Dungeon-Mart.git"
 2. Open project with the following unity version.
 3. Select simulate device to test or built to android APK.
 ## Shop Structure
@@ -14,8 +14,8 @@
   - Equip
   - Premium
 - **Currencies:**
-  - Coin(soft currency)
-  - Gem(hard currency, premium)
+  - Coin (soft currency)
+  - Gem (hard currency, premium)
 - **Features:**
   - Item Card UI
   - Purchase system (Subtract coin/gem, Check currency amount, Add item to inventory)
